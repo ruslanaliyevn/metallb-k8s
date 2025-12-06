@@ -1,0 +1,11 @@
+---
+apiVersion: metallb.io/v1beta1
+kind: IPAddressPool
+metadata:
+  name: metallb-pool
+  namespace: metallb
+spec:
+  addresses:
+  # Replace with your Hetzner Floating IP address
+  # Example: 5.5.5.55/32
+  - YOUR_FLOATING_IP/32
