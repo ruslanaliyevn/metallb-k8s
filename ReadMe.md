@@ -40,7 +40,6 @@ metallb-k8s/
 │   ├── l2-advertisement.yml
 │   └── docs/
 │       ├── floating-ip-setup.md
-│       └── troubleshooting.md
 └── examples/                    # Example applications
     └── nginx-demo.yml
 ```
