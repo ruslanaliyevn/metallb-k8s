@@ -1,0 +1,14 @@
+---
+apiVersion: metallb.io/v1beta1
+kind: IPAddressPool
+metadata:
+  name: default-pool
+  namespace: metallb-system
+spec:
+  addresses:
+  # Replace with your available IP address range
+  # Examples:
+  # Single IP: 192.168.200.220/32
+  # IP range: 192.168.200.220-192.168.200.230
+  # CIDR: 192.168.200.0/24
+  - 192.168.200.220-192.168.200.230
