@@ -243,11 +243,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 MIT License
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [MetalLB Project](https://metallb.universe.tf/)
 - [Kubernetes Community](https://kubernetes.io/)
-- [Hetzner Cloud](https://www.hetzner.com/cloud)
 
 ---
 
@@ -256,6 +255,5 @@ MIT License
   <p>
     <a href="https://metallb.universe.tf/">MetalLB</a> •
     <a href="https://kubernetes.io/">Kubernetes</a> •
-    <a href="https://www.hetzner.com/cloud">Hetzner Cloud</a>
   </p>
 </div>
